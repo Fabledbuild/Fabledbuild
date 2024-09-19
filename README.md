@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adarsh Singh Rajput</h1>
+<h1 align="center">Hi, I'm Adarsh Singh Rajput</h1>
 <h3 align="center">Pursuing BTech CSE</h3>
 
 - 🌱 I’m currently learning **Web Development & Devops.**
