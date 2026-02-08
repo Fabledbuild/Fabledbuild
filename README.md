@@ -2,8 +2,7 @@
 
 🚀 **Aspiring Software Developer | Backend & Web Enthusiast | Problem Solver**
 
-I don’t have the full roadmap yet, but I’m building it —  
-**one project, one bug, and one concept at a time.**  
+I don’t have the full roadmap yet, but I’m building it - **one project, one bug, and one concept at a time.**  
 Driven by curiosity, consistency, and the goal of becoming industry-ready.
 
 ---
