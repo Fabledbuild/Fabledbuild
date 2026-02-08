@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I’m Adarsh Singh Rajput 👋
 
-<!--
-**Fabledbuild/Fabledbuild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Software Developer | Backend & Web Enthusiast | Problem Solver**
 
-Here are some ideas to get you started:
+I don’t have the full roadmap yet, but I’m building it —  
+**one project, one bug, and one concept at a time.**  
+Driven by curiosity, consistency, and the goal of becoming industry-ready.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🌱 Learning **DSA, Java, Spring Boot, Backend Development**
+- 🧠 Exploring **system thinking & clean code practices**
+- 🤝 Open to **collaborations, hackathons & open-source**
+- 🎯 Goal: Crack a **top-tier internship** and grow as a solid SDE
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Java, JavaScript
+- **Frontend:** HTML, CSS, React (learning)
+- **Backend:** Spring Boot (learning), Node.js (basics)
+- **Tools:** Git, GitHub, VS Code, Postman 
+- **CS Core:** Data Structures & Algorithms
+
+---
+
+### 📌 Ask Me About
+- Web Development  
+- Java & DSA basics  
+- Git & GitHub
+- AI/ML Enthusiast
+
+---
+
+### 📫 How to Reach Me
+- 📧 Email: rajputadarsh864.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/adarsh-singh-rajput-/
+- 🌐 Portfolio (coming soon 👀)
+
+---
+
+### ⚡ Fun Fact
+Former **national-level boxing player** 🥊 — discipline didn’t leave, it just turned into code.
+
