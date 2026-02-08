@@ -1,4 +1,4 @@
-# Hi, I’m Adarsh Singh Rajput 👋
+# Hi, I’m Adarsh 👋
 
 🚀 **Aspiring Software Developer | Backend & Web Enthusiast | Problem Solver**
 
